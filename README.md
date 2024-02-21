@@ -5,4 +5,4 @@
 [![card](https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![renatofmatos](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![renatofmatos](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
