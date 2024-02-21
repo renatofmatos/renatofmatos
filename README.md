@@ -1,5 +1,7 @@
 - 👋 Olá, me chamo Renato Matos
-- 👀 Sou engenheiro de softwares, atualmente trabalho com processamento de grande volume de dados, utitlizamos majoritariamente PL/SQL, más também atuo como desenvolvedor Web (Java, Java Script, Type Script, HTML, CSS, Angular, Python)
+- 👀 Sou engenheiro de softwares, atualmente trabalho com processamento de grande volume de dados utilizando PL/SQL, também atuo como desenvolvedor Web
+Front(Java Script, Type Script, HTML, CSS, Angular, Python)
+Back(Java, Python, C#)
 
 
 ![card](https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula)
