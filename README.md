@@ -3,3 +3,6 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![renatofmatos](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
