@@ -20,5 +20,5 @@
 [<img src="./imagens/postman-logo.svg" width=23 title="Postman Tools" alt="Postman Tools">](https://www.postman.com/product/tools/)
 [<img src="./imagens/spring-logo.svg" width=23 title="Spring" alt="Spring">](https://spring.io/why-spring)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact&theme=dracula" width="300">
-<img src="https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula" width="323">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact&theme=dracula" width=45%>
+<img src="https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula" width=49%>
