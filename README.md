@@ -4,7 +4,7 @@
 
 ## Conhecimentos
 [<img src="./imagens/java-icon.svg" width=25 title="Java" alt="Java">](https://www.java.com/en/download/help/whatis_java.html)
-[<img src="./imagens/html5_logo.png" width=25 title="HTML 5" alt="HTML 5">](https://developer.mozilla.org/en-US/docs/Web/HTMLs)
+[<img src="./imagens/html5_logo.png" width=25 title="HTML 5" alt="HTML 5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="./imagens/css_logo.png" width=25 title="CSS" alt="CSS">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="./imagens/javascript-logo.png" width=31 title="JavaScript" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="./imagens/ts-logo-128.png" width=24 title="TypeScript" alt="TypeScript">](https://www.typescriptlang.org/)
