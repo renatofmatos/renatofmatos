@@ -1,4 +1,5 @@
-- Olá, me chamo Renato Matos 🤓
+## Olá
+- Me chamo Renato Matos 🤓
 - Sou engenheiro de softwares, atualmente trabalho com processamento de grande volume de dados utilizando majoritariamente PL/SQL, também desenvolvo aplicações Web, integrando os objetos oracle ao back-end Java.
 
 ## Skills
@@ -19,6 +20,5 @@
 [<img src="./imagens/postman-logo.svg" width=23 title="Postman Tools" alt="Postman Tools">](https://www.postman.com/product/tools/)
 [<img src="./imagens/spring-logo.svg" width=23 title="Spring" alt="Spring">](https://spring.io/why-spring)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact&theme=dracula)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatofmatos&layout=compact&theme=dracula" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=renatofmatos&theme=dracula" width="323">
