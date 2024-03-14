@@ -2,7 +2,7 @@
 - Sou engenheiro de softwares, atualmente trabalho com processamento de grande volume de dados utilizando majoritariamente PL/SQL, também desenvolvo aplicações Web, integrando os objetos oracle ao back-end Java.
 
 ## Skills
-[<img src="./imagens/java-icon.svg" width=25 title="Java" alt="Java"> ](https://www.java.com/en/download/help/whatis_java.html)
+[<img src="./imagens/java-icon.svg" width=25 title="Java" alt="Java">](https://www.java.com/en/download/help/whatis_java.html)
 [<img src="./imagens/html5_logo.png" width=25 title="HTML 5" alt="HTML 5">](https://developer.mozilla.org/en-US/docs/Web/HTMLs)
 [<img src="./imagens/css_logo.png" width=25 title="CSS" alt="CSS">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="./imagens/javascript-logo.png" width=31 title="JavaScript" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
