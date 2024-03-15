@@ -1,6 +1,6 @@
 ## Hi
 - I'm Renato🤓
-- I'm a software engineer, I currently work with processing large volumes of data using mostly PL/SQL, I also develop Web applications, integrating oracle objects with the Java back-end.
+- I currently work with processing large volumes of data using mostly PL/SQL, I also develop Web applications, integrating oracle objects with the Java back-end.
 
 ## Skills
 [<img src="./imagens/java-icon.svg" width=25 title="Java" alt="Java">](https://www.java.com/en/download/help/whatis_java.html)
