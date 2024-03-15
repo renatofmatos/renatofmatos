@@ -1,8 +1,8 @@
-## Olá
-- Me chamo Renato Matos 🤓
-- Sou engenheiro de softwares, atualmente trabalho com processamento de grande volume de dados utilizando majoritariamente PL/SQL, também desenvolvo aplicações Web, integrando os objetos oracle ao back-end Java.
+## Hi
+- I'm Renato🤓
+- I'm a software engineer, I currently work with processing large volumes of data using mostly PL/SQL, I also develop Web applications, integrating oracle objects with the Java back-end.
 
-## Conhecimentos
+## Skills
 [<img src="./imagens/java-icon.svg" width=25 title="Java" alt="Java">](https://www.java.com/en/download/help/whatis_java.html)
 [<img src="./imagens/html5_logo.png" width=25 title="HTML 5" alt="HTML 5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="./imagens/css_logo.png" width=25 title="CSS" alt="CSS">](https://developer.mozilla.org/en-US/docs/Web/CSS)
